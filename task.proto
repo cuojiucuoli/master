@@ -1,0 +1,78 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.theanswr.task";
+option java_outer_classname = "TaskProtos";
+
+package com.theanswr.task;
+
+service TaskService {
+    rpc readyForRunTask (TaskRequest) returns (TaskReadyForRunTaskResponse);
+    rpc runTask (TaskRequest) returns (TaskExecuteResponse);
+}
+
+message TaskRequest {
+    int64 initialAskTime = 1;
+    string option = 2;
+}
+
+message TaskReadyForRunTaskResponse {
+    bool readyForRun = 1;
+    int64 estimateFinishAt = 2;
+}
+
+message TaskExecuteResponse {
+    repeated Result result = 1;
+    double successRate = 2;
+}
+
+message Result {
+    enum Type {
+        TEXT = 0;
+        CHART = 1;
+        MEDIA = 2;
+        INPUT = 3;
+        SEPARATOR = 4;
+    }
+    Type type = 1;
+    int32 width = 2;
+    int32 height = 3;
+    oneof content {
+        TypeText text = 4;
+        TypeChart chart = 5;
+        TypeMedia media = 6;
+        TypeInput input = 7;
+    }
+}
+
+message TypeText {
+    string code = 1;
+    repeated string variable = 2;
+}
+
+message TypeChart {
+    enum ChartType {
+        BAR = 0;
+        LINE = 1;
+        AREA = 2;
+        PIE = 3;
+        BUBLE = 4;
+        RADAR = 5;
+        HEATMAP = 6;
+        PIE_ALIAS = 7;
+        TREEMAP_ALIAS = 8;
+        GAUGE_FIVE_STEP = 9;
+        BUBLE_CHINA_INDEX = 10;
+    }
+    ChartType chartType = 1;
+    string data = 2;
+    TypeText reference = 3;
+}
+
+message TypeMedia {
+    string link = 1;
+}
+
+message TypeInput {
+    string code = 1;
+}

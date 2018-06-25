@@ -1,0 +1,7 @@
+target/*
+*.classpath
+*.project
+*.springBeans
+.settings/*
+*/classes/*
+src/main/java/com/theanswr/task/*

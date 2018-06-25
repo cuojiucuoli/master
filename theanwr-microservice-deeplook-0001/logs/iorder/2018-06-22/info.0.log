@@ -1,0 +1,853 @@
+[INFO ] 2018-06-22 09:23:36 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4628 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:23:36 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:23:36 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6572421: startup date [Fri Jun 22 09:23:36 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:24:46 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 1288 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:24:46 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:24:46 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:24:46 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:24:46 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:24:46 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:24:46 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:24:46 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:24:46 [main] com.theanswr.boot.BootApplication - Started BootApplication in 1.105 seconds (JVM running for 1.492)
+[INFO ] 2018-06-22 09:24:46 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:24:46 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:24:46 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:24:46 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:24:46 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:24:46 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:26:17 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3100 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:26:17 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:26:17 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:26:17 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:26:17 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:26:17 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:26:17 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:26:17 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:26:17 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.756 seconds (JVM running for 1.149)
+[INFO ] 2018-06-22 09:26:17 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:26:17 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:26:17 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:26:17 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:26:17 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:26:17 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:26:44 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4600 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:26:44 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:26:44 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:26:44 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:26:44 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:26:44 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:26:44 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:26:44 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:26:44 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.747 seconds (JVM running for 1.16)
+[INFO ] 2018-06-22 09:26:44 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:26:44 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:26:44 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:26:44 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:26:44 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:26:44 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:30:23 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4836 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:30:23 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:30:23 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@126945f9: startup date [Fri Jun 22 09:30:23 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:30:23 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:30:23 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:30:23 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:30:23 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:30:23 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.962 seconds (JVM running for 2.291)
+[INFO ] 2018-06-22 09:30:23 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:30:23 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@126945f9: startup date [Fri Jun 22 09:30:23 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:30:23 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:30:23 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:30:23 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:30:42 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5412 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:30:42 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:30:42 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:30:43 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:30:42 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:30:42 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:30:42 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:30:42 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:30:42 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.804 seconds (JVM running for 1.192)
+[INFO ] 2018-06-22 09:30:42 [RMI TCP Connection(5)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:30:42 [RMI TCP Connection(5)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:30:43 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:30:42 [RMI TCP Connection(5)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:30:42 [RMI TCP Connection(5)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:30:42 [RMI TCP Connection(5)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:31:11 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5768 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:31:11 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:31:11 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:31:11 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:31:11 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:31:11 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:31:11 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:31:11 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:31:11 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.845 seconds (JVM running for 1.237)
+[INFO ] 2018-06-22 09:31:11 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:31:11 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:31:11 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:31:11 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:31:11 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:31:11 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:32:24 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5292 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:32:24 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:32:24 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:32:24 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:32:24 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:32:24 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:32:24 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:32:24 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:32:24 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.849 seconds (JVM running for 1.252)
+[INFO ] 2018-06-22 09:32:24 [RMI TCP Connection(10)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:32:24 [RMI TCP Connection(10)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:32:24 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:32:24 [RMI TCP Connection(10)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:32:24 [RMI TCP Connection(10)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:32:24 [RMI TCP Connection(10)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:35:16 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5180 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:35:16 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:35:16 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:35:16 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:35:16 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:35:16 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:35:16 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:35:16 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:35:16 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.767 seconds (JVM running for 1.171)
+[INFO ] 2018-06-22 09:35:16 [RMI TCP Connection(11)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:35:16 [RMI TCP Connection(11)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:35:16 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:35:16 [RMI TCP Connection(11)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:35:16 [RMI TCP Connection(11)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:35:16 [RMI TCP Connection(11)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:37:49 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5148 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:37:49 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:37:49 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:37:49 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:37:49 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-22 09:39:32 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 6024 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:39:32 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:39:32 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@55322aab: startup date [Fri Jun 22 09:39:32 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:40:48 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4420 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:40:48 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:40:48 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@61fe30: startup date [Fri Jun 22 09:40:48 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:40:48 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:40:48 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:40:48 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:40:48 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:40:48 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.944 seconds (JVM running for 1.407)
+[INFO ] 2018-06-22 09:40:48 [RMI TCP Connection(13)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:40:48 [RMI TCP Connection(13)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@61fe30: startup date [Fri Jun 22 09:40:48 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:40:48 [RMI TCP Connection(13)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:40:48 [RMI TCP Connection(13)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:40:48 [RMI TCP Connection(13)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:44:59 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5784 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:44:59 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:44:59 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@55322aab: startup date [Fri Jun 22 09:44:59 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:44:59 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:44:59 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:44:59 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:44:59 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:44:59 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.934 seconds (JVM running for 1.409)
+[INFO ] 2018-06-22 09:44:59 [RMI TCP Connection(10)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:44:59 [RMI TCP Connection(10)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@55322aab: startup date [Fri Jun 22 09:44:59 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:44:59 [RMI TCP Connection(10)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:44:59 [RMI TCP Connection(10)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:44:59 [RMI TCP Connection(10)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:50:41 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 6036 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:50:41 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:50:41 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:50:41 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:50:41 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:50:41 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:50:41 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:50:41 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:50:41 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.733 seconds (JVM running for 1.12)
+[INFO ] 2018-06-22 09:50:41 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:50:41 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 09:50:41 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:50:41 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:50:41 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:50:41 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 09:51:41 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4900 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 09:51:41 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 09:51:41 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@61fe30: startup date [Fri Jun 22 09:51:41 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:51:41 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 09:51:41 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 09:51:41 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 09:51:41 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 09:51:41 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.891 seconds (JVM running for 1.424)
+[INFO ] 2018-06-22 09:51:41 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 09:51:41 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@61fe30: startup date [Fri Jun 22 09:51:41 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 09:51:41 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 09:51:41 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 09:51:41 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:07:15 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4444 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:07:15 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:07:15 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:07:15 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:07:15 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:07:15 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:07:15 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:07:15 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:07:15 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.739 seconds (JVM running for 1.14)
+[INFO ] 2018-06-22 10:07:15 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:07:15 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:07:15 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:07:15 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:07:15 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:07:15 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:09:40 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3644 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:09:40 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:09:40 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@64b73e7a: startup date [Fri Jun 22 10:09:40 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:09:40 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:09:40 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:09:40 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:09:40 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:09:40 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.875 seconds (JVM running for 1.365)
+[INFO ] 2018-06-22 10:09:40 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:09:40 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@64b73e7a: startup date [Fri Jun 22 10:09:40 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:09:40 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:09:40 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:09:40 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:10:24 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4332 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:10:24 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:10:24 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:10:24 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:10:24 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:10:24 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:10:24 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:10:24 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:10:24 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.727 seconds (JVM running for 1.125)
+[INFO ] 2018-06-22 10:10:24 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:10:24 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:10:24 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:10:24 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:10:24 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:10:24 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:10:49 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 2844 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:10:49 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:10:49 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:10:49 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:10:49 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:10:49 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:10:49 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:10:49 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:10:49 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.725 seconds (JVM running for 1.121)
+[INFO ] 2018-06-22 10:10:49 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:10:49 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:10:49 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:10:49 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:10:49 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:10:49 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:10:55 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5548 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:10:55 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:10:55 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:10:55 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:10:55 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:10:55 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:10:55 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:10:55 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:10:55 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.737 seconds (JVM running for 1.137)
+[INFO ] 2018-06-22 10:10:55 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:10:55 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:10:55 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:10:55 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:10:55 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:10:55 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:16:11 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3996 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:16:11 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:16:11 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:16:12 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:16:11 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:16:11 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:16:11 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:16:11 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:16:11 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.727 seconds (JVM running for 1.117)
+[INFO ] 2018-06-22 10:16:11 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:16:11 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:16:12 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:16:11 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:16:11 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:16:11 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:18:15 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3868 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:18:15 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:18:15 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:18:15 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:18:15 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:18:15 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:18:15 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:18:15 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:18:15 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.729 seconds (JVM running for 1.127)
+[INFO ] 2018-06-22 10:18:15 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:18:15 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:18:15 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:18:15 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:18:15 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:18:15 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:18:40 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3044 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:18:40 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:18:40 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:18:40 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:18:40 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:18:40 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:18:40 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:18:40 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:18:40 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.765 seconds (JVM running for 1.162)
+[INFO ] 2018-06-22 10:18:40 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:18:40 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:18:40 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:18:40 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:18:40 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:18:40 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:18:50 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5008 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:18:50 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:18:50 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:18:50 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:18:50 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:18:50 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:18:50 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:18:50 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:18:50 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.734 seconds (JVM running for 1.119)
+[INFO ] 2018-06-22 10:18:50 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:18:50 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:18:50 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:18:50 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:18:50 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:18:50 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:20:43 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3128 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:20:43 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:20:43 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@61fe30: startup date [Fri Jun 22 10:20:43 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:20:43 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:20:43 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:20:43 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:20:43 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:20:43 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.879 seconds (JVM running for 1.386)
+[INFO ] 2018-06-22 10:20:43 [RMI TCP Connection(8)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:20:43 [RMI TCP Connection(8)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@61fe30: startup date [Fri Jun 22 10:20:43 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:20:43 [RMI TCP Connection(8)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:20:43 [RMI TCP Connection(8)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:20:43 [RMI TCP Connection(8)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:22:05 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3840 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:22:05 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:22:05 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@66c61024: startup date [Fri Jun 22 10:22:05 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:22:05 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:22:05 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:22:05 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:22:05 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:22:05 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.87 seconds (JVM running for 1.371)
+[INFO ] 2018-06-22 10:22:45 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5676 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:22:45 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:22:45 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@66c61024: startup date [Fri Jun 22 10:22:45 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:22:45 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:22:45 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:22:45 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:22:45 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:22:45 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.874 seconds (JVM running for 1.397)
+[INFO ] 2018-06-22 10:22:45 [RMI TCP Connection(9)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:22:45 [RMI TCP Connection(9)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@66c61024: startup date [Fri Jun 22 10:22:45 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:22:45 [RMI TCP Connection(9)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:22:45 [RMI TCP Connection(9)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:22:45 [RMI TCP Connection(9)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:32:09 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 1020 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:32:09 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:32:09 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:32:09 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:32:09 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:32:09 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:32:09 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:32:09 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:32:09 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.812 seconds (JVM running for 1.25)
+[INFO ] 2018-06-22 10:32:09 [RMI TCP Connection(8)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:32:09 [RMI TCP Connection(8)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:32:09 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:32:09 [RMI TCP Connection(8)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:32:09 [RMI TCP Connection(8)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:32:09 [RMI TCP Connection(8)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:32:49 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 700 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:32:49 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:32:49 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:32:49 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:32:49 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:32:49 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:32:49 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:32:49 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:32:49 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.734 seconds (JVM running for 1.122)
+[INFO ] 2018-06-22 10:32:49 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:32:49 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:32:49 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:32:49 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:32:49 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:32:49 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:33:49 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 2592 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:33:49 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:33:49 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:33:49 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:33:49 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:33:49 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:33:49 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:33:49 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:33:49 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.723 seconds (JVM running for 1.11)
+[INFO ] 2018-06-22 10:33:49 [RMI TCP Connection(8)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:33:49 [RMI TCP Connection(8)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:33:49 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:33:49 [RMI TCP Connection(8)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:33:49 [RMI TCP Connection(8)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:33:49 [RMI TCP Connection(8)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:36:21 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3924 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:36:21 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:36:21 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@c9d0d6: startup date [Fri Jun 22 10:36:21 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:36:21 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:36:21 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:36:21 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:36:21 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:36:21 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.88 seconds (JVM running for 1.373)
+[INFO ] 2018-06-22 10:36:21 [RMI TCP Connection(11)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:36:21 [RMI TCP Connection(11)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@c9d0d6: startup date [Fri Jun 22 10:36:21 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:36:21 [RMI TCP Connection(11)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:36:21 [RMI TCP Connection(11)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:36:21 [RMI TCP Connection(11)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:38:16 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 1380 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:38:16 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:38:16 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@c9d0d6: startup date [Fri Jun 22 10:38:16 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:38:16 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:38:16 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:38:16 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:38:16 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:38:16 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.869 seconds (JVM running for 1.35)
+[INFO ] 2018-06-22 10:38:16 [RMI TCP Connection(15)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:38:16 [RMI TCP Connection(15)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@c9d0d6: startup date [Fri Jun 22 10:38:16 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:38:16 [RMI TCP Connection(15)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:38:16 [RMI TCP Connection(15)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:38:16 [RMI TCP Connection(15)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:56:29 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4920 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:56:29 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:56:29 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:56:29 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:56:29 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:56:29 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:56:29 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:56:29 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:56:29 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.733 seconds (JVM running for 1.138)
+[INFO ] 2018-06-22 10:56:29 [RMI TCP Connection(9)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:56:29 [RMI TCP Connection(9)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 10:56:29 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:56:29 [RMI TCP Connection(9)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:56:29 [RMI TCP Connection(9)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:56:29 [RMI TCP Connection(9)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:57:24 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4560 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:57:24 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:57:24 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@64b73e7a: startup date [Fri Jun 22 10:57:24 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:57:24 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:57:24 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:57:24 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:57:24 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:57:24 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.873 seconds (JVM running for 1.371)
+[INFO ] 2018-06-22 10:57:24 [RMI TCP Connection(8)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 10:57:24 [RMI TCP Connection(8)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@64b73e7a: startup date [Fri Jun 22 10:57:24 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:57:24 [RMI TCP Connection(8)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 10:57:24 [RMI TCP Connection(8)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 10:57:24 [RMI TCP Connection(8)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 10:57:51 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 2256 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 10:57:51 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 10:57:51 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@517566b: startup date [Fri Jun 22 10:57:51 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 10:57:51 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 10:57:51 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 10:57:51 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 10:57:51 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 10:57:51 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.888 seconds (JVM running for 1.384)
+[INFO ] 2018-06-22 11:03:53 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4236 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:03:53 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:03:53 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:03:53 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:03:53 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:03:53 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:03:53 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:03:53 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:03:53 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.751 seconds (JVM running for 1.162)
+[INFO ] 2018-06-22 11:03:53 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:03:53 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:03:53 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:03:53 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:03:53 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:03:53 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:03:53 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:04:46 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5896 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:04:46 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:04:46 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@517566b: startup date [Fri Jun 22 11:04:46 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:04:46 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:04:46 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:04:46 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:04:46 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:04:46 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.892 seconds (JVM running for 1.415)
+[INFO ] 2018-06-22 11:04:46 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:04:46 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@517566b: startup date [Fri Jun 22 11:04:46 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:04:46 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:04:46 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:04:46 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:05:13 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4440 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:05:13 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:05:13 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2f40e5db: startup date [Fri Jun 22 11:05:13 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:05:13 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:05:13 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:05:13 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:05:13 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:05:13 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.898 seconds (JVM running for 1.513)
+[INFO ] 2018-06-22 11:05:13 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:05:13 [RMI TCP Connection(9)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:05:13 [RMI TCP Connection(9)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2f40e5db: startup date [Fri Jun 22 11:05:13 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:05:13 [RMI TCP Connection(9)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:05:13 [RMI TCP Connection(9)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:05:13 [RMI TCP Connection(9)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:06:10 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3236 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:06:10 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:06:10 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5f0e9815: startup date [Fri Jun 22 11:06:10 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:06:10 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:06:10 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:06:10 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:06:10 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:06:10 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.908 seconds (JVM running for 1.385)
+[INFO ] 2018-06-22 11:06:10 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:06:10 [RMI TCP Connection(8)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:06:10 [RMI TCP Connection(8)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5f0e9815: startup date [Fri Jun 22 11:06:10 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:06:10 [RMI TCP Connection(8)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:06:10 [RMI TCP Connection(8)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:06:10 [RMI TCP Connection(8)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:08:20 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3928 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:08:20 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:08:20 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:08:20 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:08:20 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:08:20 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:08:20 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:08:20 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:08:20 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.764 seconds (JVM running for 1.161)
+[INFO ] 2018-06-22 11:08:20 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:08:41 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4800 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:08:41 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:08:41 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:08:41 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:08:41 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:08:41 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:08:41 [main] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:08:20 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:08:20 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:08:20 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:08:20 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:08:20 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:08:20 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:08:53 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3864 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:08:53 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:08:53 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:08:53 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:08:53 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:08:53 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:08:53 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:08:53 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:08:53 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.768 seconds (JVM running for 1.172)
+[INFO ] 2018-06-22 11:08:53 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:08:53 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 11:08:53 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 11:08:53 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529636981177}
+[INFO ] 2018-06-22 11:08:53 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529636981556}
+[INFO ] 2018-06-22 11:08:53 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 11:08:53 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 11:08:53 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1659
+[INFO ] 2018-06-22 11:08:53 [RMI TCP Connection(12)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:08:53 [RMI TCP Connection(12)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:08:53 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:08:53 [RMI TCP Connection(12)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:08:53 [RMI TCP Connection(12)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:08:53 [RMI TCP Connection(12)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:13:04 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5692 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:13:04 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:13:04 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:13:04 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:13:04 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:13:04 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:13:04 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:13:04 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:13:04 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.741 seconds (JVM running for 1.142)
+[INFO ] 2018-06-22 11:13:04 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:13:04 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 11:13:04 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 11:13:04 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529637205966}
+[INFO ] 2018-06-22 11:13:04 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529637206205}
+[INFO ] 2018-06-22 11:13:04 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 11:13:04 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 11:13:04 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1444
+[INFO ] 2018-06-22 11:13:04 [RMI TCP Connection(10)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:13:04 [RMI TCP Connection(10)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:13:04 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:13:04 [RMI TCP Connection(10)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:13:04 [RMI TCP Connection(10)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:13:04 [RMI TCP Connection(10)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:19:09 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4296 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:19:09 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:19:09 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:19:09 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:19:09 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:19:09 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:19:09 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:19:09 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:19:09 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.729 seconds (JVM running for 1.115)
+[INFO ] 2018-06-22 11:19:09 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:19:09 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:19:09 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:19:09 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:19:09 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:19:09 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:19:09 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:29:14 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3792 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:29:14 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:29:14 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:29:14 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:29:14 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:29:14 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:29:14 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:29:14 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:29:14 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.742 seconds (JVM running for 1.124)
+[INFO ] 2018-06-22 11:29:14 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:29:14 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:29:14 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:29:14 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:29:14 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:29:14 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:29:14 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:31:17 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5020 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:31:17 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:31:17 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:31:17 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:31:17 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:31:17 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:31:17 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:31:17 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:31:17 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.745 seconds (JVM running for 1.128)
+[INFO ] 2018-06-22 11:31:17 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:31:17 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 11:31:17 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 11:31:17 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529638301674}
+[INFO ] 2018-06-22 11:31:17 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529638301939}
+[INFO ] 2018-06-22 11:31:17 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 11:31:17 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 11:31:17 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1525
+[INFO ] 2018-06-22 11:31:17 [RMI TCP Connection(9)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:31:17 [RMI TCP Connection(9)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:31:17 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:31:17 [RMI TCP Connection(9)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:31:17 [RMI TCP Connection(9)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:31:17 [RMI TCP Connection(9)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:33:02 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4476 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:33:02 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:33:02 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:33:02 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:33:02 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:33:02 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:33:02 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:33:02 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:33:02 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.734 seconds (JVM running for 1.12)
+[INFO ] 2018-06-22 11:33:02 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:33:02 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:33:02 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:33:02 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:33:02 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:33:02 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:33:02 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 11:34:06 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5816 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 11:34:06 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 11:34:06 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:34:06 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:34:06 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 11:34:06 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 11:34:06 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 11:34:06 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 11:34:06 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.756 seconds (JVM running for 1.149)
+[INFO ] 2018-06-22 11:34:06 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 11:34:06 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 11:34:06 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 11:34:06 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 11:34:06 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 11:34:06 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 11:34:06 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 13:16:21 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3408 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 13:16:21 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 13:16:21 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:16:22 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:16:21 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 13:16:21 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 13:16:21 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 13:16:21 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 13:16:21 [main] com.theanswr.boot.BootApplication - Started BootApplication in 1.473 seconds (JVM running for 1.865)
+[INFO ] 2018-06-22 13:16:21 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 13:16:21 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 13:16:21 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 13:16:21 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529644597535}
+[INFO ] 2018-06-22 13:16:21 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529644597773}
+[INFO ] 2018-06-22 13:16:21 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 13:16:21 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 13:16:21 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1488
+[INFO ] 2018-06-22 13:16:21 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 13:16:21 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:16:22 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:16:21 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 13:16:21 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 13:16:21 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 13:23:30 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4648 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 13:23:30 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 13:23:30 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:23:30 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:23:30 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 13:23:30 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 13:23:30 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 13:23:30 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-4
+[INFO ] 2018-06-22 13:23:30 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.734 seconds (JVM running for 1.123)
+[INFO ] 2018-06-22 13:23:30 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :7
+[INFO ] 2018-06-22 13:23:30 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 13:23:30 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:23:30 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:23:30 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 13:23:30 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 13:23:30 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 13:25:10 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4748 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 13:25:10 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 13:25:10 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:25:10 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:25:10 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 13:25:10 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 13:25:10 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 13:25:10 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 13:25:10 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:10 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-4
+[INFO ] 2018-06-22 13:25:10 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.756 seconds (JVM running for 1.17)
+[INFO ] 2018-06-22 13:25:10 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 13:25:10 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 13:25:10 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:25:10 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:25:10 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 13:25:10 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 13:25:10 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 13:25:50 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 1552 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 13:25:50 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 13:25:50 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:25:50 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:25:50 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 13:25:50 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 13:25:50 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 13:25:50 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-4
+[INFO ] 2018-06-22 13:25:50 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.75 seconds (JVM running for 1.149)
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-10
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-11
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-12
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-13
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-14
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-15
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-16
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-17
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-18
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-19
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-20
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-21
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-22
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-23
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-24
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-25
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-26
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-27
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-28
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-29
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-30
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:25:50 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-31
+[INFO ] 2018-06-22 13:25:50 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 13:25:50 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:25:50 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:25:50 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 13:25:50 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 13:25:50 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 13:26:55 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4640 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 13:26:55 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 13:26:55 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:26:55 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:26:55 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 13:26:55 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 13:26:55 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 13:26:55 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 13:26:55 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 13:26:55 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-4
+[INFO ] 2018-06-22 13:26:55 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.749 seconds (JVM running for 1.141)
+[INFO ] 2018-06-22 13:26:55 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 13:26:55 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 13:26:55 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 13:26:55 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529645231232}
+[INFO ] 2018-06-22 13:26:55 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529645231482}
+[INFO ] 2018-06-22 13:26:55 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 13:26:55 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 13:26:55 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1425
+[INFO ] 2018-06-22 13:26:55 [RMI TCP Connection(9)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 13:26:55 [RMI TCP Connection(9)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 13:26:55 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 13:26:55 [RMI TCP Connection(9)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 13:26:55 [RMI TCP Connection(9)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 13:26:55 [RMI TCP Connection(9)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 14:55:28 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4336 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 14:55:28 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 14:55:28 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 14:55:28 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 14:55:28 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 14:55:28 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 14:55:28 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 14:55:28 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 14:55:28 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 14:55:28 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-4
+[INFO ] 2018-06-22 14:55:28 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.791 seconds (JVM running for 1.28)
+[INFO ] 2018-06-22 14:55:28 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 14:55:28 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 14:55:28 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 14:55:28 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529650544515}
+[INFO ] 2018-06-22 14:55:28 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529650544757}
+[INFO ] 2018-06-22 14:55:28 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 14:55:28 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 14:55:28 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime2246
+[INFO ] 2018-06-22 14:55:28 [RMI TCP Connection(10)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 14:55:28 [RMI TCP Connection(10)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 14:55:28 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 14:55:28 [RMI TCP Connection(10)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 14:55:28 [RMI TCP Connection(10)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 14:55:28 [RMI TCP Connection(10)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 14:56:08 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5936 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 14:56:08 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 14:56:08 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 14:56:08 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 14:56:08 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 14:56:08 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 14:56:08 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 14:56:08 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-22 14:56:08 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 14:56:08 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-4
+[INFO ] 2018-06-22 14:56:08 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.76 seconds (JVM running for 1.159)
+[INFO ] 2018-06-22 14:56:08 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 14:56:08 [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 14:56:08 [RMI TCP Connection(7)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Fri Jun 22 14:56:08 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 14:56:08 [RMI TCP Connection(7)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 14:56:08 [RMI TCP Connection(7)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 14:56:08 [RMI TCP Connection(7)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 14:58:19 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5720 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 14:58:19 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 14:58:19 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@52bf72b5: startup date [Fri Jun 22 14:58:19 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 14:58:19 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 14:58:19 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 14:58:19 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 14:58:19 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 14:58:19 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-4
+[INFO ] 2018-06-22 14:58:19 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.744 seconds (JVM running for 1.134)
+[INFO ] 2018-06-22 14:58:19 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529650722901}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529650723141}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1436
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529650738963}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529650739110}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1213
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529650769181}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529650769332}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 14:58:19 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1191
+[INFO ] 2018-06-22 14:58:19 [RMI TCP Connection(10)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 14:58:19 [RMI TCP Connection(10)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@52bf72b5: startup date [Fri Jun 22 14:58:19 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 14:58:19 [RMI TCP Connection(10)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 14:58:19 [RMI TCP Connection(10)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 14:58:19 [RMI TCP Connection(10)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-22 17:05:18 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4436 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-22 17:05:18 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-22 17:05:18 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@52bf72b5: startup date [Fri Jun 22 17:05:18 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 17:05:18 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-22 17:05:18 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-22 17:05:18 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-22 17:05:18 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Current Active Count is :6
+[INFO ] 2018-06-22 17:05:18 [pool-3-thread-1] c.t.configuration.AutoConfiguration - Open Thread :Thread-4
+[INFO ] 2018-06-22 17:05:18 [main] com.theanswr.boot.BootApplication - Started BootApplication in 1.311 seconds (JVM running for 1.714)
+[INFO ] 2018-06-22 17:05:18 [Thread-4] c.t.configuration.AutoConfiguration - Open Server,The Port is9091
+[INFO ] 2018-06-22 17:05:18 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-22 17:05:18 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 17:05:18 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529658336460}
+[INFO ] 2018-06-22 17:05:18 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529658336681}
+[INFO ] 2018-06-22 17:05:18 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-22 17:05:18 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-22 17:05:18 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1670
+[INFO ] 2018-06-22 17:05:18 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-22 17:05:18 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@52bf72b5: startup date [Fri Jun 22 17:05:18 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-22 17:05:18 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-22 17:05:18 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-22 17:05:18 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown

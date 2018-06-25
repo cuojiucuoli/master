@@ -1,0 +1,191 @@
+[INFO ] 2018-06-21 10:28:47 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3820 (G:\MyGit\grpc-java\theanwr-microservice-deeplook-0001\target\classes started by pc in G:\MyGit\grpc-java\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 10:28:47 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 10:28:47 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 10:28:47 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 10:28:47 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 10:31:41 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 2808 (G:\MyGit\grpc-java\theanwr-microservice-deeplook-0001\target\classes started by pc in G:\MyGit\grpc-java\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 10:31:41 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 10:31:41 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 10:31:41 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 10:31:41 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 10:32:06 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3772 (G:\MyGit\grpc-java\theanwr-microservice-deeplook-0001\target\classes started by pc in G:\MyGit\grpc-java\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 10:32:06 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 10:32:06 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 10:32:06 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 10:32:06 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 10:32:06 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-21 10:32:06 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 10:32:06 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529548341637}
+[INFO ] 2018-06-21 10:32:06 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529548341873}
+[INFO ] 2018-06-21 10:32:06 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 10:32:06 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-21 10:32:06 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1419
+[INFO ] 2018-06-21 11:37:26 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3276 (E:\MyGit\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\MyGit\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 11:37:26 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 11:37:26 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@16d04d3d: startup date [Thu Jun 21 11:37:26 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 11:37:26 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 15:39:08 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4964 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 15:39:08 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 15:39:08 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5b239d7d: startup date [Thu Jun 21 15:39:08 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 15:39:08 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 15:39:08 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-21 15:39:08 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 15:39:08 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529566760518}
+[INFO ] 2018-06-21 15:39:08 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529566760868}
+[INFO ] 2018-06-21 15:39:08 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 15:39:08 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-21 15:39:08 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime2736
+[INFO ] 2018-06-21 17:17:26 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 432 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 17:17:26 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 17:17:26 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 17:17:26 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 17:17:26 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 17:59:48 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 6104 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 17:59:48 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 17:59:48 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 17:59:48 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 17:59:48 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:00:29 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4532 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:00:29 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:00:29 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:00:29 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:00:29 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:01:32 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5036 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:01:32 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:01:32 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:01:32 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:01:32 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:03:23 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3580 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:03:23 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:03:23 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:03:23 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:03:23 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:05:12 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5216 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:05:12 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:05:12 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:05:13 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:05:12 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:05:12 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-21 18:05:12 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 18:05:12 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529575531411}
+[INFO ] 2018-06-21 18:05:12 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529575531658}
+[INFO ] 2018-06-21 18:05:12 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 18:05:12 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-21 18:05:12 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1445
+[INFO ] 2018-06-21 18:06:48 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5280 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:06:48 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:06:48 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:06:48 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:06:48 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-1] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-1] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-1] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529575621356}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-1] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529575621602}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-1] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-1] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529575621356}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529575621602}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-1] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1549
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1549
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Execute:{'DEEPLOOK_ALIAS_LOOKUP_INPUT':'周杰伦'}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the InitialAskTime is  -{1529575626136}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] com.theanswr.commlib.CommLib - the CurrentTime is  -{1529575626141}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] com.theanswr.commlib.CommLib - getting parameters -{DEEPLOOK_ALIAS_LOOKUP_INPUT}
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - the url you defined ashttp://deeplook.ai/dlforum/api_ans.php?action=tags&searcg_group=1&search=周杰伦&limit=10&access_token=vGt6aohBkH0n41JEH2WRDbEmpnwpcAxbsPLgV15J
+[INFO ] 2018-06-21 18:06:48 [grpc-default-executor-0] c.t.implementation.Deeplook0001Impl - Done,TotalExecTime1274
+[INFO ] 2018-06-21 18:09:19 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 2652 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:09:19 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:09:19 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:09:19 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:09:19 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:11:19 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 6980 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:11:19 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:11:19 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:11:19 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:11:19 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-21 18:11:19 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-21 18:11:19 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-21 18:11:19 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-21 18:11:19 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.756 seconds (JVM running for 1.132)
+[INFO ] 2018-06-21 18:11:19 [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-21 18:11:19 [RMI TCP Connection(2)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:11:19 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:11:19 [RMI TCP Connection(2)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-21 18:11:19 [RMI TCP Connection(2)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-21 18:11:19 [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-21 18:13:42 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 6204 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:13:42 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:13:42 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:13:42 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:13:42 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:15:46 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 6068 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:15:46 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:15:46 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:15:46 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:15:46 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:16:27 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 7076 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:16:27 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:16:27 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:16:27 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:16:27 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:17:27 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3324 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:17:27 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:17:27 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:17:27 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:17:27 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:18:47 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4236 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:18:47 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:18:47 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@517566b: startup date [Thu Jun 21 18:18:47 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:18:47 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:19:52 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5856 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:19:52 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:19:52 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:19:52 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:19:52 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-21 18:19:52 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-21 18:19:52 [main] n.d.s.a.g.server.GrpcServerLifecycle - gRPC Server started, listening on address: 0.0.0.0, port: 9090
+[INFO ] 2018-06-21 18:19:52 [main] o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+[INFO ] 2018-06-21 18:19:52 [main] com.theanswr.boot.BootApplication - Started BootApplication in 0.75 seconds (JVM running for 1.148)
+[INFO ] 2018-06-21 18:19:52 [RMI TCP Connection(6)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2018-06-21 18:19:52 [RMI TCP Connection(6)-127.0.0.1] o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:19:52 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:19:52 [RMI TCP Connection(6)-127.0.0.1] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[INFO ] 2018-06-21 18:19:52 [RMI TCP Connection(6)-127.0.0.1] n.d.s.a.g.server.GrpcServerLifecycle - gRPC server stopped
+[INFO ] 2018-06-21 18:19:52 [RMI TCP Connection(6)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-21 18:21:33 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 4708 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:21:33 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:21:33 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:21:34 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:21:33 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:21:54 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 6752 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:21:54 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:21:54 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:21:54 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:21:54 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:22:55 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 7024 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:22:55 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:22:55 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:22:56 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:22:55 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:28:27 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 6000 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:28:27 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:28:27 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:28:27 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:28:53 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 3688 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:28:53 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:28:53 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:28:53 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:28:53 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:29:19 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 1124 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:29:19 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:29:19 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:29:19 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:29:19 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:30:04 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 2652 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:30:04 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:30:04 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:30:04 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:30:04 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:30:04 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-21 18:30:04 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-21 18:30:04 [main] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-21 18:30:14 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5536 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:30:14 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:30:14 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:30:14 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:30:14 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:30:14 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-21 18:30:14 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-21 18:30:14 [main] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-21 18:32:02 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5568 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:32:02 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:32:02 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:32:02 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:32:02 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
+[INFO ] 2018-06-21 18:32:02 [main] o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2018-06-21 18:32:02 [main] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+[INFO ] 2018-06-21 18:32:02 [main] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2018-06-21 18:34:28 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 5584 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:34:28 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:34:28 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:34:28 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:36:41 [main] com.theanswr.boot.BootApplication - Starting BootApplication on pc-PC2 with PID 6740 (E:\GitRepository\theanwr-microservice-deeplook-0001\target\classes started by pc in E:\GitRepository\theanwr-microservice-deeplook-0001)
+[INFO ] 2018-06-21 18:36:41 [main] com.theanswr.boot.BootApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-21 18:36:41 [main] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6d763516: startup date [Thu Jun 21 18:36:41 CST 2018]; root of context hierarchy
+[INFO ] 2018-06-21 18:36:41 [main] c.t.configuration.AutoConfiguration - Open Server,The Port is9090
